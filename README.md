@@ -19,3 +19,8 @@ Project sedang dalam tahap pengembangan.
 
 ## Version
 Version 1.0
+
+## Informasi Kolaborasi
+
+Repository ini dikerjakan secara berkelompok
+menggunakan Git dan GitHub.
