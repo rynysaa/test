@@ -13,3 +13,9 @@ secara kolaboratif menggunakan Git dan GitHub.
 - Anggota 1
 - Anggota 2
 - Anggota 3
+
+## Status Project
+Project sedang dalam tahap pengembangan.
+
+## Version
+Version 1.0
